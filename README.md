@@ -1,2 +1,1 @@
-my first readme
- main work 
+My first readme updates
